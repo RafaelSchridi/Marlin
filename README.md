@@ -1,3 +1,7 @@
+## Config Fork
+This is my fork to manage the configuration of my Sidewinder X1, there are no code changes happening here. Feel free to use my config files tough.
+The main marlin branch can be found [here](https://github.com/MarlinFirmware/Marlin).
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
